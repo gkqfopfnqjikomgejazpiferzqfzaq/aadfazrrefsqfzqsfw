@@ -12,14 +12,11 @@
         font-family: "Share Tech Mono", monospace;
         }
 
+        .container_cbd271 .members_cbd271 {
+          display: none !important;
+        }
         .members_cbd271 {
-          background: transparent !important;
-        }
-        .members_cbd271:hover {
-          background-color: rgba(var(--rgb-highlight), 10%) !important;
-        }
-        .members_cbd271 .username {
-          color: var(--text);
+          display: none !important;
         }
         .appMount_ea7e65, .app_a01fb1, .bg_d4b6c5, .guilds_a4d4d9, .scroller_fea3ef, .sidebar_a4d4d9, .container_ee69e0, .panels_a4d4d9, .container_b2ca13, .chat_a7d72e, .chatContent_a7d72e, .title_a7d72e, .searchBar_a46bef, .container_cbd271, .content_a7d72e, .container_e9f61e, .scrollableContainer_d0696b, .channelTextArea_d0696b, .container_c2739c, .section_cd82a7, .nowPlayingColumn_c2739c, .container_bf550a, .itemCard_f02fcf, .section_cd82a7, .inset_c0f6a6, .container_e44302, .privateChannels_f0963d, .scroller_c47fa9, .layer_d4b6c5, .standardSidebarView_c25c6d, .sidebarRegionScroller_c25c6d, .contentRegion_c25c6d, .contentRegionScroller_c25c6d, .container_ad8f79, .stickyHeader_f1629a, .scroller_c100ff, .pageWrapper_a3a4ce, .container_a6d69a {
             background: rgba(0, 0, 0, 0) !important;
